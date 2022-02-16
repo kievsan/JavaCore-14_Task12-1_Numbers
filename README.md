@@ -1,6 +1,6 @@
 ![Java logo](/Java_logo.png)
-> **JPAT-14** — Блок 1. Шаблоны проектирования: 
-> *    1 - Порождающие паттерны
-> *    Домашнее задание к занятию 1. «Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype»
-> *    Задача 1.1 Люди: Builder
-> *    [Задание на сайте **Нетологии**](https://github.com/netology-code/jd-homeworks/blob/master/creational/task1/README.md)
+> **JavaCore-14** — Блок 1. Stream API
+> *    2 - Stream API. Потоки, повторные вызовы, основные методы
+> *    Домашнее задание к занятию 1.2: "Stream API. Потоки, повторные вызовы, основные методы"
+> *    Задача 1.2-1: Работа с числами
+> *    [Задание на сайте **Нетологии**](https://github.com/netology-code/jd-homeworks/blob/master/streams/task1/README.md)
