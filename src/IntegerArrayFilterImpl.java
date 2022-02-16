@@ -1,4 +1,4 @@
-package knhel7.jd14.javacore14.task121;
+//package knhel7.jd14.javacore14.task121;
 
 import java.util.Arrays;
 import java.util.function.Predicate;

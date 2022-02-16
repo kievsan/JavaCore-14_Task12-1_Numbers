@@ -1,4 +1,4 @@
-package knhel7.jd14.javacore14.task121;
+//package knhel7.jd14.javacore14.task121;
 
 // Task121
 // Домашнее задание к занятию 1.2.
