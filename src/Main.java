@@ -20,8 +20,7 @@ public class Main implements IntegerArrayFilterImpl, IntegerArraySorterImpl {
         main.bubbleSortingInAscendingOrder(
                 main.filterForIntArray(
                         main.filterForIntArray(ARR, isPositive, "Filtered as Positive"),
-                                isEven, "Filtered as Even"),
-                        "Sorted in ascending order"
-                );
+                        isEven, "Filtered as Even"),
+                "Sorted in ascending order");
     }
 }
